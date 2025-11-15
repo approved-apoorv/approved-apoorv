@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, Next, Tailwind ....**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SpMp93RPes4XXdmeuUwtDlANJFZ5TusT/view?usp=sharing](https://drive.google.com/file/d/1SpMp93RPes4XXdmeuUwtDlANJFZ5TusT/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1SpMp93RPes4XXdmeuUwtDlANJFZ5TusT/view?usp=sharing](https://drive.google.com/file/d/1Ns9CkxS3Y_LBqAd2jcoY0Bp5lc1WVEaU/view?usp=sharing)
 
 - ⚡ Fun fact **I can book tatkal tickets!**
 

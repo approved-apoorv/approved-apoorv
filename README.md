@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=approved-apoorv&label=Profile%20views&color=0e75b6&style=flat" alt="approved-apoorv" /> </p>
 
 # 💫 About Me:
-🌱 I’m currently learning **MERN, PHP, Wordpress.**<br><br>👨‍💻 Checkout My portfolio(https://www.i-am-apoorv.vercel.app)<br><br>💬 Ask me about **React, Next, Tailwind ....**<br><br>📄 Know about my experiences [https://drive.google.com/file/d/1GQ9EJzGGiscqK2HIWjW8UQsyc8LShq38/view?usp=drive_link](https://drive.google.com/file/d/1Ns9CkxS3Y_LBqAd2jcoY0Bp5lc1WVEaU/view?usp=sharing)<br><br>⚡ Fun fact **I can book tatkal tickets!**
+🌱 I’m currently learning **MERN, PHP, Wordpress.**<br><br>👨‍💻 Checkout My portfolio(https://i-am-apoorv.vercel.app/)<br><br>💬 Ask me about **React, Next, Tailwind ....**<br><br>📄 Know about my experiences [https://drive.google.com/file/d/1GQ9EJzGGiscqK2HIWjW8UQsyc8LShq38/view?usp=drive_link](https://drive.google.com/file/d/1Ns9CkxS3Y_LBqAd2jcoY0Bp5lc1WVEaU/view?usp=sharing)<br><br>⚡ Fun fact **I can book tatkal tickets!**
 
 
 ## 🌐 Socials:
@@ -23,7 +23,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
----
-[![](https://komarev.com/ghpvc/?username=approved-apoorv&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
